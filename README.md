@@ -11,18 +11,19 @@ We have high-score feature to save the best result of you. And enable/disable mu
 
 ### Screenshots
 
-Home screen
+![Home screen]
 (https://photos.app.goo.gl/bwGT9DQTtFYydLkS8)
 
-Playing screen
+![Playing screen]
 (https://photos.app.goo.gl/BPw9DdYf7krEjfPc6)
 
-Lose screen
+![Lose screen]
 (https://photos.app.goo.gl/Z4gwFVAHLZygrrw39)
 
 ### Video demo
-
+![Demo]
 (https://photos.app.goo.gl/4Fht6NNn8bZzkKYV8)
+
 
 ## Installation
 
@@ -30,9 +31,9 @@ Make sure you have installed Flutter on your laptop/PC. For futher information a
 - [Flutter](https://flutter.dev/)
 - [Dart](https://dart.dev/)
 
-After cloning this project, get neccessary packages before going to run it.
 
-Move to project directory on your device, then open terminal (or command line) there and run.
+After cloning this project, get neccessary packages before going to run it.
+Move to project directory on your device, then open terminal (or command line) there and run:
 
 ```bash
 flutter packages get
@@ -42,13 +43,13 @@ or
 flutter pub get
 ```
 
-To run this game on simulator. Run
+To run this game on simulator, run:
 
 ```bash
 flutter run
 ```
 
-To build apk file. Run
+To build apk file, run:
 
 ```bash
 flutter build apk
@@ -75,6 +76,8 @@ We will try to develope more in future.
 - Trần Thị Cẩm Tú - 16521351
 - Bùi Trung Tín - 16521239
 
+Contact us by email: tr.camtu.29@gmail.com
+
 ## Reference
 
 [Series Create a Mobile Game with Flutter and Flame – Beginner Tutorial](https://jap.alekhin.io/create-mobile-game-flutter-flame-beginner-tutorial)
@@ -82,4 +85,4 @@ We will try to develope more in future.
 ## Download
 
 - [Download file apk](https://drive.google.com/drive/folders/1gmJ2VNblj5y1fhmxEb7kdmuV4Fk2MQH3?usp=sharing)
-- [Download file documentation (in Vietnamese)]() - Updating
+- [Download file documentation (in Vietnamese)](https://drive.google.com/drive/folders/1N6FRvrqPEOtnk_AN-l-60N73TcfuIPvJ?usp=sharing)

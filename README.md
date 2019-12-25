@@ -13,11 +13,7 @@ You can find a demo video in lalagame/screenshots/demo.mp4 of this repository.
 
 ### Screenshots
 
-![Home screen](https://raw.githubusercontent.com/catu29/lalagame/master/screenshots/home.png)
-
-![Playing screen](https://raw.githubusercontent.com/catu29/lalagame/master/screenshots/play.png)
-
-![Lose screen](https://raw.githubusercontent.com/catu29/lalagame/master/screenshots/lose.png)
+![Home screen](https://raw.githubusercontent.com/catu29/lalagame/master/screenshots/home.png) ![Playing screen](https://raw.githubusercontent.com/catu29/lalagame/master/screenshots/play.png) ![Lose screen](https://raw.githubusercontent.com/catu29/lalagame/master/screenshots/lose.png)
 
 ## Installation
 

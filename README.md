@@ -11,14 +11,14 @@ We have high-score feature to save the best result of you. And enable/disable mu
 
 ### Screenshots
 
-![Home screen](https://raw.githubusercontent.com/catu29/lalagame/screenshots/home.png)
+![Home screen](https://raw.githubusercontent.com/catu29/lalagame/master/screenshots/home.png)
 
-![Playing screen](https://raw.githubusercontent.com/catu29/lalagame/screenshots/play.png)
+![Playing screen](https://raw.githubusercontent.com/catu29/lalagame/master/screenshots/play.png)
 
-![Lose screen](https://raw.githubusercontent.com/catu29/lalagame/screenshots/lose.png)
+![Lose screen](https://raw.githubusercontent.com/catu29/lalagame/master/screenshots/lose.png)
 
 ### Video demo
-![Demo](https://raw.githubusercontent.com/catu29/lalagame/screenshots/demo.mp4)
+![Demo](https://raw.githubusercontent.com/catu29/lalagame/master/screenshots/demo.mp4)
 
 
 ## Installation

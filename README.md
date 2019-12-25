@@ -9,6 +9,8 @@ This is a mobile game using Flutter in our Mobile Programming Subject.
 Just tap the flies and you will receive score. If you do not tap on any flies, or, there is any flies full (out of time), you will lose the game.
 We have high-score feature to save the best result of you. And enable/disable music/sound in case you do not want them.
 
+You can find a demo video in lalagame/screenshots/demo.mp4 of this repository.
+
 ### Screenshots
 
 ![Home screen](https://raw.githubusercontent.com/catu29/lalagame/master/screenshots/home.png)
@@ -16,10 +18,6 @@ We have high-score feature to save the best result of you. And enable/disable mu
 ![Playing screen](https://raw.githubusercontent.com/catu29/lalagame/master/screenshots/play.png)
 
 ![Lose screen](https://raw.githubusercontent.com/catu29/lalagame/master/screenshots/lose.png)
-
-### Video demo
-![Demo](https://raw.githubusercontent.com/catu29/lalagame/master/screenshots/demo.mp4)
-
 
 ## Installation
 

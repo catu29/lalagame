@@ -75,4 +75,4 @@ Contact us by email: tr.camtu.29@gmail.com
 ## Download
 
 - [Download file apk](https://drive.google.com/drive/folders/1gmJ2VNblj5y1fhmxEb7kdmuV4Fk2MQH3?usp=sharing)
-- [Download file documentation (in Vietnamese)](https://drive.google.com/drive/folders/1N6FRvrqPEOtnk_AN-l-60N73TcfuIPvJ?usp=sharing)
+- [Download file documentation (in Vietnamese)](https://drive.google.com/file/d/1z0MkSj44teMgW8h1RJrwK_A1N11O3qfz/view?usp=sharing) - Only for members of UIT - VNU HCM
